@@ -1,2 +1,3 @@
 # F5-TTS
-Usage of F5-TTS by using it on Google Notebook
+
+F5-TTS implementation on Google Notebook. The paper which I'm refering to is https://arxiv.org/abs/2410.06885.
